@@ -1,0 +1,417 @@
+{
+    "Alcibiade-I.txt": {
+        "type": "dialogue",
+        "title": "Alcibiade-I.txt",
+        "lines": 908,
+        "words": 15058,
+        "dialogues": 0,
+        "partecipants": [
+            "Alcibiade",
+            "Socrate"
+        ]
+    },
+    "Alcibiade-II.txt": {
+        "type": "dialogue",
+        "title": "Alcibiade-II.txt",
+        "lines": 186,
+        "words": 5453,
+        "dialogues": 0,
+        "partecipants": [
+            "Ammone"
+        ]
+    },
+    "Amanti.txt": {
+        "type": "dialogue",
+        "title": "Amanti.txt",
+        "lines": 7,
+        "words": 3083,
+        "dialogues": 0,
+        "partecipants": [
+            "Chiesi",
+            "Rispose"
+        ]
+    },
+    "Apologia-di-Socrate.txt": {
+        "type": "flowing_text",
+        "title": "Apologia-di-Socrate.txt",
+        "lines": 5,
+        "words": 10784,
+        "dialogues": 0,
+        "partecipants": []
+    },
+    "Carmide.txt": {
+        "type": "dialogue",
+        "title": "Carmide.txt",
+        "lines": 6,
+        "words": 10324,
+        "dialogues": 0,
+        "partecipants": [
+            "Carmide"
+        ]
+    },
+    "Clitofonte.txt": {
+        "type": "dialogue",
+        "title": "Clitofonte.txt",
+        "lines": 7,
+        "words": 1976,
+        "dialogues": 0,
+        "partecipants": [
+            "Clitofonte"
+        ]
+    },
+    "Cratilo.txt": {
+        "type": "dialogue",
+        "title": "Cratilo.txt",
+        "lines": 742,
+        "words": 24678,
+        "dialogues": 0,
+        "partecipants": [
+            "Ermogene",
+            "Cratilo"
+        ]
+    },
+    "Critone.txt": {
+        "type": "dialogue",
+        "title": "Critone.txt",
+        "lines": 98,
+        "words": 4933,
+        "dialogues": 0,
+        "partecipants": [
+            "Critone"
+        ]
+    },
+    "Crizia.txt": {
+        "type": "dialogue",
+        "title": "Crizia.txt",
+        "lines": 9,
+        "words": 6502,
+        "dialogues": 0,
+        "partecipants": [
+            "Timeo",
+            "Crizia",
+            "Ermocrate"
+        ]
+    },
+    "Eutidemo.txt": {
+        "type": "dialogue",
+        "title": "Eutidemo.txt",
+        "lines": 71,
+        "words": 14174,
+        "dialogues": 0,
+        "partecipants": [
+            "Eutidemo",
+            "Vedi",
+            "Rispondimi",
+            "\u00abgi\u00e0"
+        ]
+    },
+    "Eutifrone.txt": {
+        "type": "dialogue",
+        "title": "Eutifrone.txt",
+        "lines": 231,
+        "words": 5725,
+        "dialogues": 0,
+        "partecipants": [
+            "Eutifrone",
+            "Eutifrome"
+        ]
+    },
+    "Fedone.txt": {
+        "type": "dialogue",
+        "title": "Fedone.txt",
+        "lines": 102,
+        "words": 27174,
+        "dialogues": 0,
+        "partecipants": [
+            "Echecrate",
+            "Fedone",
+            "Ii",
+            "Iii",
+            "Iv",
+            "Vi",
+            "Vii",
+            "Viii",
+            "Ix",
+            "Xi",
+            "Xii",
+            "Xiii",
+            "Xiv",
+            "Xv",
+            "Xvi",
+            "Xvii",
+            "Xviii",
+            "Xix",
+            "Xx",
+            "Xxi",
+            "Xxii",
+            "Xxiii",
+            "Xxiv",
+            "Xxv",
+            "Xxvi",
+            "Xxvii",
+            "Xxviii",
+            "Xxix",
+            "Xxx",
+            "Xxxi",
+            "Xxxii",
+            "Xxxiii",
+            "Xxxiv",
+            "Xxxv",
+            "Xxxvi",
+            "Xxxvii",
+            "Xxxviii",
+            "Xxxix",
+            "Xl",
+            "Xli",
+            "Xlii",
+            "Xliii",
+            "Ulisse",
+            "Xliv",
+            "Xlv",
+            "Xlvi",
+            "Xlvii",
+            "Xlviii",
+            "Xlix",
+            "\u00abancora",
+            "Li",
+            "Lii",
+            "Liii",
+            "Liv",
+            "Lv",
+            "Lvi",
+            "Lvii",
+            "Lviii",
+            "Lix",
+            "Lx",
+            "Lxi",
+            "Lxii",
+            "Lxiii",
+            "Lxiv",
+            "Lxv",
+            "Lxvi"
+        ]
+    },
+    "Fedro.txt": {
+        "type": "dialogue",
+        "title": "Fedro.txt",
+        "lines": 364,
+        "words": 22297,
+        "dialogues": 0,
+        "partecipants": [
+            "Fedro"
+        ]
+    },
+    "Filebo.txt": {
+        "type": "dialogue",
+        "title": "Filebo.txt",
+        "lines": 1135,
+        "words": 24275,
+        "dialogues": 0,
+        "partecipants": [
+            "Protarco",
+            "Filebo",
+            "Isocrate"
+        ]
+    },
+    "Gorgia.txt": {
+        "type": "dialogue",
+        "title": "Gorgia.txt",
+        "lines": 22,
+        "words": 23621,
+        "dialogues": 0,
+        "partecipants": [
+            "Amico",
+            "Pittaco"
+        ]
+    },
+    "Ione.txt": {
+        "type": "dialogue",
+        "title": "Ione.txt",
+        "lines": 173,
+        "words": 5067,
+        "dialogues": 0,
+        "partecipants": [
+            "Ione"
+        ]
+    },
+    "Ipparco.txt": {
+        "type": "dialogue",
+        "title": "Ipparco.txt",
+        "lines": 119,
+        "words": 3143,
+        "dialogues": 0,
+        "partecipants": []
+    },
+    "Ippia-maggiore.txt": {
+        "type": "dialogue",
+        "title": "Ippia-maggiore.txt",
+        "lines": 355,
+        "words": 10636,
+        "dialogues": 0,
+        "partecipants": [
+            "Ippia",
+            "Socarte",
+            "Ippia:",
+            "Guarda"
+        ]
+    },
+    "Ippia-minore.txt": {
+        "type": "dialogue",
+        "title": "Ippia-minore.txt",
+        "lines": 233,
+        "words": 5308,
+        "dialogues": 0,
+        "partecipants": [
+            "Eudico",
+            "Rispondi"
+        ]
+    },
+    "Lachete.txt": {
+        "type": "dialogue",
+        "title": "Lachete.txt",
+        "lines": 254,
+        "words": 8966,
+        "dialogues": 0,
+        "partecipants": [
+            "Lisimaco",
+            "Nicia",
+            "Lachete",
+            "Figli",
+            "Melesia"
+        ]
+    },
+    "Liside.txt": {
+        "type": "dialogue",
+        "title": "Liside.txt",
+        "lines": 7,
+        "words": 8198,
+        "dialogues": 0,
+        "partecipants": [
+            "Continuai",
+            "\u00abbene"
+        ]
+    },
+    "Menesseno.txt": {
+        "type": "dialogue",
+        "title": "Menesseno.txt",
+        "lines": 36,
+        "words": 6144,
+        "dialogues": 0,
+        "partecipants": [
+            "Menesseno",
+            "Greci"
+        ]
+    },
+    "Menone.txt": {
+        "type": "dialogue",
+        "title": "Menone.txt",
+        "lines": 563,
+        "words": 12762,
+        "dialogues": 0,
+        "partecipants": [
+            "Menone",
+            "Dimmi",
+            "Schiavo",
+            "Anito"
+        ]
+    },
+    "Parmenide.txt": {
+        "type": "dialogue",
+        "title": "Parmenide.txt",
+        "lines": 6,
+        "words": 19388,
+        "dialogues": 0,
+        "partecipants": [
+            "\u00abconsideriamo"
+        ]
+    },
+    "Politico.txt": {
+        "type": "dialogue",
+        "title": "Politico.txt",
+        "lines": 893,
+        "words": 25713,
+        "dialogues": 0,
+        "partecipants": [
+            "Teodoro",
+            "Straniero"
+        ]
+    },
+    "Protagora.txt": {
+        "type": "dialogue",
+        "title": "Protagora.txt",
+        "lines": 22,
+        "words": 23621,
+        "dialogues": 0,
+        "partecipants": []
+    },
+    "Repubblica.txt": {
+        "type": "dialogue",
+        "title": "Repubblica.txt",
+        "lines": 32,
+        "words": 114353,
+        "dialogues": 0,
+        "partecipants": [
+            "Note",
+            "Repubblica",
+            "Pindaro",
+            "Adimanto",
+            "\u00absicuro",
+            "\u00absenz'altro",
+            "\u00abquesto"
+        ]
+    },
+    "Simposio.txt": {
+        "type": "dialogue",
+        "title": "Simposio.txt",
+        "lines": 1135,
+        "words": 24275,
+        "dialogues": 0,
+        "partecipants": []
+    },
+    "Sofista.txt": {
+        "type": "dialogue",
+        "title": "Sofista.txt",
+        "lines": 1162,
+        "words": 22553,
+        "dialogues": 0,
+        "partecipants": [
+            "Ospite",
+            "Teeteto",
+            "Tfeteto",
+            "Eeteto",
+            "Ospitee"
+        ]
+    },
+    "Teagete.txt": {
+        "type": "dialogue",
+        "title": "Teagete.txt",
+        "lines": 139,
+        "words": 4190,
+        "dialogues": 0,
+        "partecipants": [
+            "Demodoco",
+            "Teagete",
+            "Tragete"
+        ]
+    },
+    "Teeteto.txt": {
+        "type": "dialogue",
+        "title": "Teeteto.txt",
+        "lines": 991,
+        "words": 32357,
+        "dialogues": 0,
+        "partecipants": [
+            "Euclide",
+            "Terpsione",
+            "5ocrate"
+        ]
+    },
+    "Timeo.txt": {
+        "type": "dialogue",
+        "title": "Timeo.txt",
+        "lines": 45,
+        "words": 31539,
+        "dialogues": 0,
+        "partecipants": []
+    }
+}

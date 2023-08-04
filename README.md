@@ -40,7 +40,7 @@ This is meant to be used on a website where you select the starting character an
 The overall
 
 
-256 TOKENS(14009) INPUT  
+256 TOKENS(14009) INPUT   
 180 LSTM layer  
 EMBEDDING (+ 12 TOKENS(101))  
 180 BiLSTM layer  
@@ -50,4 +50,7 @@ DROPOUT 15%
 
 #### Training data structure - dialogues
 Each training set contains:  
-BOOK_NAME + token(2) + CHARACTER_NAME + token(3) + QUESTION + token(4) + TRUNCATED_ANSWER
+BOOK_NAME + token(2) + CHARACTER_NAME + token(3) + TRUNCATED_ANSWER
+
+If there are more than one question (+character name):  
+BOOK_NAME + token(2) + CHARACTER_NAME + token(3) + QUESTION + token(2) + CHARACTER_NAME + token(3) + TRUNCATED_ANSWER
