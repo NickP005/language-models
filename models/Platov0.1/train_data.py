@@ -112,6 +112,15 @@ def test_model(book_name, character_name, question):
     sequence = pad_sequences([sequence], maxlen=MAX_TOKENS-1, padding="pre", truncating="post")
     return sequence
 
+# create prepared sequences of data numpy array of maximum 32768 sequences per file saved in train_data/
+def create_prepared_sequences(file_name, max_sequences=32768):
+    sequences = get_sequences_from_dialogue(file_name)
+    # split the sequences in 10000 sequences per file
+    for i in range(0, len(sequences), max_sequences):
+        np.save("train_data/{}_{}.npy".format(file_name[:-4], i/max_sequences), sequences[i:i+max_sequences])
+    del sequences # free memory
+
+
 """ Example of usage
 
 sequences = get_sequences_from_dialogue("Teagete.txt")
@@ -119,3 +128,16 @@ X, y = get_training_data(sequences)
 del sequences # free memory
 
 """
+
+# Example of usage
+if __name__ == "__main__":
+    #create_prepared_sequences("Teagete.txt")
+    #create_prepared_sequences("Timeo.txt")
+    #create_prepared_sequences("Teeteto.txt")
+    #create_prepared_sequences("Simposio.txt")
+    #create_prepared_sequences("Politico.txt")
+    #create_prepared_sequences("Menone.txt")
+    create_prepared_sequences("Menesseno.txt")
+    create_prepared_sequences("Lachete.txt")
+    create_prepared_sequences("Ippia-minore.txt")
+    create_prepared_sequences("Ippia-maggiore.txt")

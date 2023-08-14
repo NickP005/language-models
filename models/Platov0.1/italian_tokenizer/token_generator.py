@@ -57,7 +57,7 @@ special_chars = [
 
 prep_e_congiunzioni = [
     "ma ", "però ", "perché ", "purché ", "che ",
-    "li ", "le ", "gli ", "i ", "la ", "di "
+    "li ", "le ", "gli ", "la ", "di ",
     "è ", "ho ",
     "ne ",
 ]

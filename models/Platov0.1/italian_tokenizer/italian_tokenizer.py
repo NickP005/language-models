@@ -101,6 +101,6 @@ def detokenize_string(token_list):
             if to_upper:
                 string = string[0].upper() + string[1:]
                 to_upper = False
-            stringa += string + '-'
+            stringa += string
     return stringa
     
