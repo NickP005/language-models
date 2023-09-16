@@ -1,0 +1,188 @@
+SOCRATE: Che cos'è per noi la legge?
+AMICO: Ma quale legge è oggetto della tua ricerca?
+SOCRATE: Ma come? è possibile che una legge differisca da un'altra, se considerata sotto l'unico aspetto di essere legge? Esamina bene dunque ciò che io mi trovo a domandarti. Saremmo infatti nella stessa situazione qualora io ti chiedessi che cos'è l'oro: se tu, così come ora, mi domandassi di quale oro mai io parli, credo che tu non porresti un giusto quesito, dal momento che l'oro non si differenzia assolutamente in nulla dall'oro, né una pietra da un'altra, se naturalmente si considerino l'oro in sé e la pietra in sé; e così nemmeno una legge differisce da un'altra, ma tutte sono la medesima realtà. Ogni legge infatti è legge allo stesso modo delle altre, non l'una di più, l'altra di meno; dunque io ti chiedo proprio questo: che cos'è la legge in genere? Se quindi hai pronta la risposta, esponila.
+AMICO: Che cos'altro mai potrebbe essere una legge, Socrate, se non ciò che è stato stabilito?
+SOCRATE: Ma come, per te il parlare coincide con le cose dette, o la vista con ciò che si vede, o l'udito con quello che si sente? Oppure, una cosa è il parlare e un'altra ciò che si dice; un conto la vista, un altro ciò che si vede; un conto l'udito, un altro ciò che si ode, e quindi una cosa è la legge, un'altra le regole stabilite? è così o come sembra a te?
+AMICO: Ora queste due realtà mi appaiono distinte.
+SOCRATE: Dunque la legge non si identifica con le norme stabilite.
+AMICO: Non mi pare.
+SOCRATE: Allora che cosa mai può essere la legge? Esamineremo la questione in questo modo. Se qualcuno ci domandasse relativamente a ciò che si è detto proprio ora: «Poiché dite che ciò che si vede è percepito dalla vista, qual è la natura di quest'ultima?». Risponderemmo a costui che essa è quella percezione che attraverso gli occhi rende manifesta la realtà; e se di nuovo ci domandasse: «Allora, se con l'udito si sente ciò che si sente, che cos'è l'udito?». Gli risponderemmo che è quella facoltà che attraverso le orecchie ci rende percepibili i suoni. Allo stesso modo dunque, anche se ci venisse chiesto: «Se le norme stabilite sono fissate dalla legge, qual è l'essenza della legge? è una percezione oppure un atto dimostrativo, come nel caso della scienza che dimostra ciò che insegna; o ancora è una scoperta con cui si trova ciò che si trova, simile alla medicina che scopre ciò che è salutare e ciò che provoca malattia, o simile alla mantica che scopre, secondo quanto dicono gli indovini, ciò che gli dèi hanno in animo? Infatti, come credo, l'arte è per noi scoperta della realtà; o no?» AMICO: Certamente.
+SOCRATE: Dunque con quale di queste realtà in particolare noi potremmo far coincidere la legge?
+AMICO: A me sembra che la legge possa essere identificata con i decreti e le deliberazioni. Del resto, chi potrebbe definirla in altro modo? Cosicché, in definitiva, sembra, per quanto tu mi domandi, che la legge sia un atto deliberativo dello Stato.
+SOCRATE: A quanto pare affermi che la legge è dimensione politica.
+AMICO: Sì, certo.
+SOCRATE: E forse dici bene; ma probabilmente in quest'altro modo noi esamineremo meglio il problema. Pensi che alcuni uomini siano sapienti?
+AMICO: Sì, certamente.
+SOCRATE: Dunque i sapienti sono sapienti in virtù della sapienza?
+AMICO: Sì.
+SOCRATE: E allora i giusti sono giusti per la giustizia?
+AMICO: Assolutamente.
+SOCRATE: Dunque anche coloro che agiscono in conformità alle leggi, lo fanno grazie alla legge?
+AMICO: Sì.
+SOCRATE: Mentre coloro che violano le leggi agiscono così a causa dell'illegalità?
+AMICO: Sì.
+SOCRATE: E coloro che rispettano le leggi sono giusti?
+AMICO: Sì.
+SOCRATE: Invece coloro che le infrangono sono ingiusti?
+AMICO: Sì, sono ingiusti.
+SOCRATE: Dunque la giustizia è ciò che di più bello vi possa essere e così pure la legge?
+AMICO: è così.
+SOCRATE: Al contrario l'ingiustizia e l'illegalità sono la cosa più vergognosa?
+AMICO: Sì.
+SOCRATE: E le une salvaguardano le città e tutto il resto, mentre le altre causano distruzioni e rivolgimenti?
+AMICO: Sì.
+SOCRATE: Così, come bisogna concepire la legge in qualità di bene, allo stesso modo la si deve ricercare come tale.
+AMICO: Come no?
+SOCRATE: Non è forse vero che noi diciamo che la legge è un atto deliberativo dello Stato?
+AMICO: Noi affermiamo proprio questo.
+SOCRATE: E dunque? Non vi sono atti deliberativi buoni e cattivi?
+AMICO: Sì che ce ne sono!
+SOCRATE: Ma assolutamente la legge non può essere cattiva.
+AMICO: No, infatti.
+SOCRATE: Quindi, non è giusto rispondere semplicemente che la legge è un atto delil?erativo dello Stato.
+AMICO: Mi sembra di no.
+SOCRATE: L'affermazione che la legge è una cattiva deliberazione mal si accorderebbe con quanto detto prima.
+AMICO: Sì , certo.
+SOCRATE: Ma anche a me sembra che la legge sia un'opinione; e poiché non è quella cattiva, non è a questo punto evidente che è quella buona, se veramente è un'opinione?
+AMICO: Sì .
+SOCRATE: Ma quale opinione è buona se non quella vera?
+AMICO: Appunto!
+SOCRATE: E l'opinione vera non è forse la scoperta di ciò che è?
+AMICO: è così infattì .
+SOCRATE: La legge allora vuole essere scoperta di ciò che è.
+AMICO: E coma mai, Socrate, se la legge è scoperta di ciò che è, non ci serviamo sempre delle medesime leggi in riferimento ai medesimi casi, se con queste noi scopriamo la natura delle cose?
+SOCRATE: Nondimeno, la legge aspira ad essere scoperta della realtà; dunque gli uomini che non si servono sempre delle medesime leggi non possono trovare sempre, almeno per quanto ci sembra, ciò che vuole la legge, la realtà. Su allora, da qui in poi chiariamo se ci serviamo sempre delle stesse leggi o talvolta di alcune, talvolta di altre, e se tutti utilizzano le medesime leggi o certi alcune, certi altre.
+AMICO: Ma, Socrate, non è certo difficile sapere che gli uomini non utilizzano sempre le stesse leggi, ma alcuni ne impiegano alcune, altri altre. Poiché per esempio, mentre per noi non è lecito sacrificare uomini, anzi è considerato empietà, i Cartaginesi invece compiono sacrifici umani in quanto per loro è un atto conforme alle e umane e divine e in virtù di questo alcuni di loro sacrificano a Crono addirittura i propri figli, come forse anche tu hai sentito dire. E non sono solo i barbari ad usare leggi diverse dalle nostre, ma anche gli abitanti della Licea  e i discendenti di Atamante,  quali sacrifici compiono, pur essendo Greci! Come del resto sappiamo e forse anche tu hai sentito dire di quali leggi noi stessi ci servivamo in passato per i defunti, quando sacrificavamo vittime sacre prima del trasporto funebre e mandavamo a chiamare le donne che raccoglievano in un'urna le ossa bruciate dei morti. E ancora prima addirittura si seppellivano i morti in casa; noi invece non facciamo nulla di tutto questo. Si potrebbero raccontare altri mille casi analoghi: questo infatti è un importante campo di dimostrazione del fatto che né tra noi, né tra gli altri uomini sussistono sempre i medesimi usi.
+SOCRATE: Non c'è da meravigliarsi, carissimo, se tu parli con cognizione, di cose a me ignote. Finché però tu esponi a modo tuo con lunghi discorsi ciò che a te sembra giusto, e io a mia volta faccio lo stesso, temo che non troveremo mai un punto d'incontro; se invece la ricerca fosse posta in comune, ci sarebbe qualche possibilità di trovarsi d'accordo. Dunque se vuoi, procedi insieme a me nella ricerca ponendoimi domande, o se preferisci dandomi risposte.
+AMICO: Preferisco, Socrate, rispondere alle tue domande.
+SOCRATE: Ebbene, tu ritieni ciò che è giusto ingiusto e ciò che è ingiusto giusto, oppure pensi che quello che è giusto, è giusto e quello che è ingiusto, è ingiusto?
+AMICO: Io ritengo giusto ciò che è giusto e ingiusto ciò che è ingiusto.
+SOCRATE: E tutti quanti la pensano a questo modo?
+AMICO: Sì .
+SOCRATE: Anche i Persiani?
+AMICO: Sì , anche loro.
+SOCRATE: Ma è così sempre?
+AMICO: Sempre.
+SOCRATE: E non è forse vero che qui le cose che hanno più peso sono ritenute più pesanti e quelle che ne hanno meno più leggere? O è vero il contrario?
+AMICO: No, ma quelle che hanno più peso sono considerate più pesanti e quelle che ne hanno meno più leggere.
+SOCRATE: E questo è valido anche a Cartagine e a Licea?  AMICO: Sì .
+SOCRATE: E ciò che è bello, a quanto pare, è ritenuto bello dovunque, mentre ciò che è brutto, lo è in ogni luogo, ma è impensabile che il bello sia brutto e il brutto bello?
+AMICO: è così .
+SOCRATE: Dunque, per dirla in generale, presso di noi e presso tutti gli altri popoli si ritiene che le cose che sono, sono e quelle che non sono, non sono?
+AMICO: A me sembra di si.
+SOCRATE: Allora, chi si sbaglia riguardo a ciò che è, si sbaglia riguardo a ciò che è conforme alla legge.
+AMICO: Così , Socrate, secondo quanto tu dici, ciò che per noi è conforme alla legge appare tale anche agli altri popoli; ma se mi metto a pensare a come noi non cessiamo mai di stravolgere da capo a fondo le leggi, non posso esserne persuaso.
+SOCRATE: Forse perché non riesci a capire che, nonostante i cambiamenti, le leggi rimangono di fatto sempre le stesse. Prova però a considerare insieme a me la questione in questo modo. Non ti sei mai imbattuto in uno scritto sulla cura dei malati?
+AMICO: Sì , certo.
+SOCRATE: Tu sai dunque di quale arte tratta questo scritto?
+AMICO: Sì , di medicina.
+SOCRATE: E tu chiami medici coloro che si intendono di quest'arte?
+AMICO: Sì , certo.
+SOCRATE: Dunque quanti possiedono tale scienza la pensano tutti allo stesso modo, o gli uni in un modo e gli altri in un altro?
+AMICO: A me pare che la pensino allo stesso modo.
+SOCRATE: E soltanto i Greci concordano fra di loro nel campo della conoscenza, o anche i barbari si trovano d'accordo fra di loro e con i Greci?
+AMICO: è senz'altro inevitabile che coloro che possiedono una stessa conoscenza concordino fra di loro, sia Greci che barbari.
+SOCRATE: Giusta risposta, ma è sempre vero?
+AMICO: Sì , sempre.
+SOCRATE: E non è forse vero che i medici scrivono sulla salute ciò che ritengono essere vero?
+AMICO: Sì .
+SOCRATE: Quindi questi scritti dei medici relativi alla medicina sono le leggi della medicina.
+AMICO: Sì , quelli che si attengono a questa scienza.
+SOCRATE: Allora anche gli scritti che riguardano l'agricoltura sono leggi relative a quest'arte?
+AMICO: Sì .
+SOCRATE: Di chi sono propri allora gli scritti e le leggi sulla lavorazione dei giardini?
+AMICO: Dei giardinieri.
+SOCRATE: E queste valgono per noi come leggi del giardinaggio?
+AMICO: Sì .
+SOCRATE: E sono valide per coloro che sanno curare giardini?
+AMICO: Come no?
+SOCRATE: E sono i giardinieri che lo sanno fare.
+AMICO: Sì .
+SOCRATE: Di chi sono propri gli scritti e le leggi sulla preparazione delle pietanze?
+AMICO: Dei cuochi.
+SOCRATE: Dunque queste sono le leggi proprie dell'arte culinaria?
+AMICO: Senza dubbio.
+SOCRATE: E sono proprie di coloro che sono in grado, a quanto pare, di occuparsi della preparazione dei cibi?
+AMICO: Sì .
+SOCRATE: E coloro che lo sanno fare non sono forse, come si dice, cuochi?
+AMICO: Infatti sono loro che se ne intendono.
+SOCRATE: Bene; di chi sono propri allora gli scritti e le leggi sul governo dello Stato? Non sono forse di coloro che sanno governare gli Stati?
+AMICO: A me sembra di sì .
+SOCRATE: E lo sanno fare altri, oltre ai politici e ai sovrani?
+AMICO: No, solo questi.
+SOCRATE: Dunque, questi scritti politici che gli uomini chiamano leggi, sono scritti di re e uomini buoni.
+AMICO: Tu dici il vero.
+SOCRATE: E quelli che possiedono scienza, potranno mai scrivere talvolta una cosa, talvolta un'altra sugli stessi argomenti?
+AMICO: No.
+SOCRATE: E potranno mai cambiare continuamente leggi in relazione agli stessi oggetti?
+AMICO: No, certo.
+SOCRATE: Se quindi noi vediamo da qualche parte alcuni fare questo, diremo che costoro possiedono scienza o piuttosto che sono incompetenti, dal momento che agiscono così ?
+AMICO: Senza dubbio incompetenti.
+SOCRATE: E non diremo forse che ciò che è giusto ha in ogni modo valore di legge, sia che riguardi la medicina, la cucina o il giardinaggio?
+AMICO: Sì .
+SOCRATE: E diremo forse che ciò che non è giusto è conforme a legge?
+AMICO: Assolutamente no.
+SOCRATE: Quindi è opposto alla legge.
+AMICO: Inevitabilmente.
+SOCRATE: Dunque anche fra gli scritti sul giusto e l'ingiusto e in genere sull'ordinamento di uno Stato e su come bisogna governare uno Stato, il giusto è legge sovrana, l'ingiusto no, ma ha valore di legge solo per gli incompetenti, in quanto contrario alla legge.
+AMICO: Sì . Allora ci troveremo giustamente d'accordo nel definire la legge scoperta di ciò che è.
+AMICO: Così pare.
+SOCRATE: Dilunghiamoci ancora su questo punto. Chi con perizia sparge sulla terra i semi?
+AMICO: Il contadino.
+SOCRATE: E costui sparge su ogni terra i semi adatti?
+AMICO: Sì .
+SOCRATE: Il contadino allora è un buon dispensatore di semi, e le sue norme e regole riguardo a questo, sono giuste?
+AMICO: Sì .
+SOCRATE: E chi è un buon dispensatore di note nelle melodie e chi sa distribuirle nel modo più adatto? Insomma: chi possiede leggi giuste a questo riguardo?
+AMICO: Il flautista e il citarista.
+SOCRATE: Quindi il miglior legislatore in questo campo è colui che sa suonare meglio il flauto.
+AMICO: Sì .
+SOCRATE: E chi è quello più in grado a stabilire il regime alimentare per il corpo degli uomini? Non è forse colui che prescrive quello più adatto?
+AMICO: Sì .
+SOCRATE: Dunque le prescrizioni e le leggi di costui sono le migliori e colui che è il legislatore più capace in questo campo è anche il più abile a stabilire diete.
+AMICO: Certamente.
+SOCRATE: Chi è costui?
+AMICO: Il maestro di ginnastica.
+SOCRATE: Ed egli è il più capace a prendersi cura del corpo dell'umano gregge?
+AMICO: Sì .
+SOCRATE: Ma chi è il più abile a pascolare il gregge di pecore? Qual è il suo nome?
+AMICO: è il pastore.
+SOCRATE: Quindi le leggi del pastore sono le migliori per le pecore.
+AMICO: Sì .
+SOCRATE: E quelle del mandriano per i buoi.
+AMICO: Sì .
+SOCRATE: Ma da chi provengono le leggi migliori per l'anima degli uomini? Non derivano forse dal re? Rispondi.
+AMICO: Dico di sì .
+SOCRATE: Certamente dici bene. Sapresti forse dirmi chi tra gli antichi è stato un buon legislatore per quanto concerne il suonare il flauto? Forse non ti viene in mente, ma permetti che io te lo ricordi?
+AMICO: Sì certo.
+SOCRATE: Non si dice forse che sia stato Marsia  e il suo amato Olimpio di Frigia?  AMICO: è vero.
+SOCRATE: Certo le loro arie per flauto sono intutto divine ed esse sole commuovono e rivelano coloro che hanno rapporti con gli dèi; esse sole poi sopravvivono ancora adesso, proprio in virtù del loro carattere divino.
+AMICO: è proprio così .
+SOCRATE: E chi si dice sia stato tra gli antichi re un buon legislatore a tal punto che le sue leggi sono in vigore ancora adesso, quasi fossero divine?
+AMICO: Non mi viene in mente.
+SOCRATE: Non conosci chi tra i Greci si serve delle leggi più antiche?
+AMICO: Forse tu alludi agli Spartani e al loro legislatore Licurgo?
+SOCRATE: No, queste leggi probabilmente non hanno ancora trecento anni o forse li superano di poco. Ma tu sai da dove provengono le leggi migliori tra queste?
+AMICO: Dicono da Creta.
+SOCRATE: E non sono forse questi tra i Greci ad utilizzare le leggi più antiche?
+AMICO: Sì .
+SOCRATE: Tu sai dunque quali tra questi furono buoni sovrani: Minosse  e Radamante,  i figli di Europa e Zeus da cui hanno avuto origine tali leggi.
+AMICO: Veramente, Socrate, dicono che Radamante fosse un giusto, ma raccontano che Minosse fosse un selvaggio, di pessimo carattere e ingiusto. SOCRATE: Carissimo, tu parli di un mito attico oggetto di una tragedia.
+AMICO: Ma come? Non si tramandano queste notizie su Minosse.
+SOCRATE: Non certo ad opera di Omero e di Esiodo; e sicuramente essi sono più attendibili di tutti i tragediografi prestando fede ai quali tu dici queste cose.
+AMICO: Ma che cosa dicono questi due riguardo a Minosse?
+SOCRATE: Te lo dirò, affinché anche tu come i più non dica qualcosa di sacrilego. Infatti non c'è nulla di più empio e nulla da cui bisogna guardarsi di più, del peccare di fronte agli dèi con le parole e con i fatti, e in secondo luogo davanti a uomini divini. Di certo bisogna sempre riflettere molto qualora si voglia biasimare o lodare un uomo, per non parlare ingiustamente. Anche per questo si deve imparare a distinguere gli uomini buoni da quelli cattivi, poiché il dio si sdegna qualora si biasimi chi è simile a lui o si lodi colui che è esattamente l'opposto: L'uomo simile alla divinità è l'uomo buono. Non conferire poi carattere sacro alle pietre, al legno, agli uccelli, ai serpenti piuttosto che all'uomo; al contrario, ritieni l'uomo buono il più sacro di tutti e il malvagio il più empio. Per questo motivo ti parlerò anche di Minosse, del modo in cui lo lodano Omero ed Esiodo, per impedire che tu da uomo, figlio di uomo, usi parole sbagliate nei confronti di un eroe figlio di Zeus. Omero infatti quando dice di Creta che in essa abitavano molti uomini e che aveva novanta città, a queste ne aggiunge un'altra: «La grande città di Cnosso, dove Minosse amico intimo del grande Zeus regnò nove anni». è dunque questa la lode di Omero a Minosse fatta di poche parole, ma mai indirizzata a nessun altro dei suoi eroi. In più punti della sua opera come qui risulta chiaro che per Omero Zeus è un dio sapiente e che la sapienza è un'arte bellissima. Il poeta dice inoltre che Minosse ogni nove anni conversava con Zeus e lo frequentava per essere educato, in quanto Zeus è il vero sapiente. Che dunque Omero non attribuisca a nessuno degli eroi, se non a Minosse, il privilegio di essere educato da Zeus costituisce già di per sé una lode meravigliosa. Inoltre nell'Odissea, nel passo della discesa agli Inferi, Omero ha rappresentato nelle vesti di giudice con lo scettro d'oro Minosse e non Radamante; in alcun modo Radamante riveste qui la funzione di giudice o di intimo di Zeus. Per questi motivi io affermo che tra tutti Omero ha lodato in particolare Minosse. Non esiste infatti lode più grande dell'essere detto il solo figlio di Zeus ad essere stato educato da Zeus e il verso: «Regnò nove anni in stretto rapporto col grande Zeus» significa proprio che Minosse era intimo di Zeus. Gli oaroi sono infatti i discorsi e oaristes è colui che è ammesso nell'intimità del discorso. Omero diceva dunque che Minosse si recava ogni nove anni nell'antro di Zeus, in parte per imparare, in parte per mostrare coi fatti ciò che aveva appreso da Zeus nei nove anni precedenti. Vi sono tuttavia alcuni che ritengono l'oaristes compagno di bevute e divertimenti di Zeus. Ci si potrebbe però servire di questa argomentazione per dimostrare che coloro che la pensano in quel modo non dicono nulla di ragionevole: infatti non c'è nessun uomo, greco o barbaro, che si tenga lontano dai banchetti o da questo tipo di passatempo, di cui fa parte il vino, se non i Cretesi e in secondo luogo gli Spartani che l'hanno imparato dai Cretesi. Addirittura a Creta, oltre alle altre leggi stabilite da Minosse c'è quella di non bere fino all'ubriachezza quando si sta con gli altri. è certo chiaro che Minosse stabilì come leggi valide anche per i suoi concittadini quelle che riteneva giuste. Minosse infatti non pensava in un modo e poi agiva in contrasto con le sue convinzioni, come un uomo qualunque: è proprio questa l'intimità di cui parlavo, fatta di discorsi volti ad educare alla virtù. Su tale base dunque Minosse pose le leggi per i suoi concittadini, attraverso le quali Creta prosperò felicemente e per tutto il tempo, e così Sparta almeno da quando iniziò a servirsene come se fossero state divine. Anche Radamante era un uomo buono, infatti era stato educato da Minosse. Egli però non era stato istruito relativamente a tutta l'arte del regnare, ma solo per essere al servizio del regno, per quanto riguarda il presiedere i tribunali: proprio in seguito a ciò ebbe fama di essere un buon giudice. Minosse infatti si avvaleva di quel custode di leggi per la cittadella, mentre per il resto di Creta ricorreva a Talo. Quest'ultimo girava tre volte l'anno di villaggio in villaggio per salvaguardare le leggi che teneva scritte su tavolette di bronzo: per questo fu soprannominato «bronzeo». Esiodo raccontò cose simili sul conto di Minosse, infatti dopo averne citato il nome dice: «Egli tra i re mortali fu il più regale e regnò su gran parte dei popoli confinanti, con lo scettro di Zeus; regnò sulle città grazie ad esso». Lo scettro di Zeus non allude a nient'altro che all'educazione impartita dal dio in virtù della quale governava Creta.
+AMICO: Allora, perché mai, Socrate, si era divulgata su Minosse codesta fama di uomo incolto e intrattabile?
+SOCRATE: Per lo stesso errore da cui anche tu, carissimo, se sei saggio e tutti gli altri uomini che vogliano essere tenuti in pregio da qualcuno, devono stare in guardia: non inimicarsi mai nessun poeta. I poeti infatti hanno grande influenza sulla fama delle persone a seconda che nei loro poemi ne parlino male o bene. Proprio in questo Minosse sbagliò, poiché combatté contro questa città in cui vi sono ogni forma di sapienza e vari poeti di ogni genere letterario, compreso quello tragico. A ben vedere, inoltre, la tragedia esiste da noi sin dall'antichità e non inizia, come generalmente si crede, con Tespi o Frinico,  ma se si vuole condurre una ricerca si troverà senz'altro che è un'antica scoperta di questa città. Inoltre la tragedia è il genere letterario più popolare ed avvincente e noi inserendo in essa Minosse ci vendicammo di quei tributi che ci costrinse a pagare. Dunque fu questo l'errore di Minosse, l'essersi reso odioso ai nostri occhi, ed è a partire da tale fatto che ottenne fama più ignobile, quella che è oggetto della tua domanda. Evidentissima prova che fosse invece buono e rispettoso delle leggi, come appunto dicevamo prima, e buon legislatore, consiste nel fatto che le sue leggi sono rimaste immutate, in quanto proprie di chi ha veramente colto la verità relativamente al governo dello Stato.
+AMICO: Mi sembra, Socrate, che il tuo discorso abbia offerto spiegazioni plausibili.
+SOCRATE: Dunque, se dico il vero, non ti pare che i Cretesi concittadini di Minosse e Radamante si servano delle leggi più antiche?
+AMICO: Mi sembra proprio di sì .
+SOCRATE: Questi allora fra gli antichi sono stati i migliori legislatori, pastori e guide degli uomini, come anche Omero disse a riguardo del buon stratega che è pastore di moltitudini.  AMICO: Sì certo.
+SOCRATE: Su allora, per Zeus propizio, se qualcuno ci chiedesse quali cose il buon legislatore e pastore del corpo stabilisce per il corpo al fine di renderlo migliore, noi diremmo bene e risponderemmo in breve, il cibo e le fatiche, l'uno per accrescerlo, le altre per esercitarlo e renderlo sodo.
+AMICO: Giusto.
+SOCRATE: E se poi oltre a questo ci chiedessero: «Quali cose il buon legislatore e pastore stabilisce per l'anima, per renderla migliore?». Che cosa mai dovremmo rispondere per non vergognarci di noi stessi e della nostra età?
+AMICO: Non so cosa dire.
+SOCRATE: Ma è proprio vergognoso per le anime di entrambi mostrare di non avere conoscenze in quello che per loro costituisce il bene e il male, e d'altra parte scoprire di possedere queste stesse conoscenze relativamente al corpo e alle altre realtà.
+
+
+
